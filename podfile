@@ -1,0 +1,5 @@
+platform :ios
+
+target 'SampleDebugApp' do
+  pod 'Raygun4iOS'
+end
